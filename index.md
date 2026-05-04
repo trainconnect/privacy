@@ -1,6 +1,8 @@
 <style>
   .btn { display: none !important; }
   .site-footer { display: none !important; }
+  .page__footer { display: none !important; }
+  footer { display: none !important; }
 </style>
 
 # Informativa sulla Privacy di TrainConnect Sicilia

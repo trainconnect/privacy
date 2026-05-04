@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 show_downloads: false
 github:
   is_project_page: false
+title: "Privacy Policy"
+description: "Informativa sul trattamento dei dati personali dell'app TrainConnect"

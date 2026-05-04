@@ -2,6 +2,7 @@
   .btn { display: none !important; }
   .site-footer { display: none !important; }
 </style>
+
 # Informativa sulla Privacy di TrainConnect Sicilia
 
 **Ultimo aggiornamento:** 4 Maggio 2026
